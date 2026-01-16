@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #f4f1ec;
+  color: #2f2f2f;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.services {
+  margin-top: 60px;
+}
+
+.services p {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+footer {
+  margin-top: 80px;
+  font-size: 14px;
+  color: #777;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Str. Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Str. Studio</h1>
+    <p>Violin Studio</p>
+
+    <div class="services">
+      <p>音樂教學</p>
+      <p>樂器維修・保養</p>
+      <p>樂器銷售</p>
+    </div>
+
+    <footer>
+      <p>© Str. Studio</p>
+    </footer>
+  </div>
+</body>
+</html>
